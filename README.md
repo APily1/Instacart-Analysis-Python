@@ -15,4 +15,4 @@ Generate customer profiles that are created based on variables and find the diff
 - Explored descriptive stats (max/min, quartiles, mean, stdev) for each variable, along with histograms, scatterplots, and charts for data distribution.
 - Grouped data by user, order, and department; derived user order flags (e.g., 'new', 'loyal') and demographics from the aggregated data; validated via crosstabs and value counts.
 - Visualized data with Seaborn and Matplotlib: histograms, lines, pie, and various bar charts.
-- designed an Excel file that showcases answers to the sales department poised in the project objective. Provided data overview, consistency checks, data wrangling, column derivations, visualizations, and informed recommendations.
+- Designed an Excel file that showcases answers to the sales department poised in the project objective. Provided data overview, consistency checks, data wrangling, column derivations, visualizations, and informed recommendations.
